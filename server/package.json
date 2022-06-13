@@ -1,0 +1,14 @@
+{
+  "name": "shortener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pedrofzero/url_shortener.git",
+  "author": "pedrofzero <pedrolf2000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
